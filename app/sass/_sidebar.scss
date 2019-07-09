@@ -1,0 +1,42 @@
+.widget{
+	box-shadow: 0 0 5px $color-second;
+	color: $font-color;
+	padding: 14px;
+	text-align: center;
+	margin-bottom: 27px;
+}
+.widget__header{
+	font-size: 24px;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+.slider-offer-wrap{
+	max-height: 348px;
+	position: relative;	
+}
+.slider-offer__btn{
+	color: #fff;
+	background-color: $button-color-second;
+	border: none;
+	width: 132px;
+	height: 44px;
+	position: absolute;
+	bottom: 16px;
+	left: 50%;
+	margin-left: -66px;
+}
+.sing-up__form{
+	input[type="text"]{
+		border: 1px solid $border-color;
+		padding: 5px;
+		margin-bottom: 18px;
+	}
+	input[type="submit"]{
+		color: #fff;
+		height: 43px;
+		width: 112px;
+		border: none;
+		background-color: $button-color;
+		cursor: pointer;
+	}
+}

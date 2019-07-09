@@ -1,0 +1,20 @@
+{
+  "name": "ubout-us-widget",
+  "version": "1.0",
+  "homepage": "http://",
+  "description": "widget about company",
+  "keywords": [
+    "widget",
+    "about",
+    "company",
+    "social",
+    "social links"
+  ],
+  "authors": [
+    "Inkarbekov Begzat <rebelliousspirit111@gmail.com>"
+  ],
+  "dependencies": {
+    "bootstrap": "4.1.0",
+    "bourbon": "^5.1.0"
+  }
+}

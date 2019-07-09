@@ -1,0 +1,23 @@
+body{
+	font: 14px $font-primary;}
+li{
+	list-style: none;
+}
+*{
+	box-sizing: border-box;
+}
+button{
+	cursor: pointer;
+	outline: none;
+}
+img{
+	width: 100%;
+}
+input{
+	outline: none;
+}
+.round-button{
+	width: 36px;
+	height: 36px;
+	border-radius: 50%;
+}
